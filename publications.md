@@ -22,10 +22,25 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
+      <div class="title">Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security</div>
+      <div class="authors"><u>Giovanni Camurati</u>, Aurélien Francillon</div>
+	  <div class="venue">To appear at 2022 IEEE Symposium on Security and Privacy (SP)</div>
+      <a href="https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00018">DOI</a>
+      </blockquote>
+  </div>
+</div>
+
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
       <div class="title">SoC Security Evaluation: Reflections on Methodology and Tooling</div>
       <div class="authors">Nassim Corteggiani, <u>Giovanni Camurati</u>, Marius Muench, Sebastian Poeplau, Aurélien Francillon</div>
-	  <div class="venue">Accepted for publication in IEEE Design and Test, Special Issue on Hack@DAC</div>
-    </blockquote>
+	  <div class="venue">IEEE Design & Test. 2021, 38(1), 7–13</div>
+      <a href="http://doi.org/10.1109/MDAT.2020.3013827">DOI</a>
+      <a href="https://www.eurecom.fr/publication/6307/download/sec-publi-6307.pdf">PDF</a>
+      <a href="https://dblp.org/rec/journals/dt/CorteggianiCMPF21.html?view=bibtex">Bibtex</a>
+      </blockquote>
   </div>
 </div>
 
