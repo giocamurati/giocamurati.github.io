@@ -22,6 +22,20 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
+      <div class="title">Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging</div>
+      <div class="authors">Patrick Leu*, <u>Giovanni Camurati*</u>, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, Jiska Classen</div> *equal contribution
+	  <div class="venue">To appear at USENIX Security 2022</div>
+      <a href="https://arxiv.org/pdf/2111.05313.pdf">PDF preprint</a>
+      <a href="https://securepositioning.com/ghost-peak/">More details</a>
+      </blockquote>
+  </div>
+</div>
+
+<!--<h3>2020</h3>-->
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
       <div class="title">Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security</div>
       <div class="authors"><u>Giovanni Camurati</u>, Aurélien Francillon</div>
 	  <div class="venue">To appear at 2022 IEEE Symposium on Security and Privacy (SP)</div>
