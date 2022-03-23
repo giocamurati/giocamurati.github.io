@@ -18,7 +18,8 @@ authors.
 
 Repetability, Replicability, and Reproducibility are very important in our field,
 especially when papers present novel tools or conduct many experiments.
-I was happy to be part of the [ACM WiSec 2019 Replicability Committee][3].
+I was happy to be part of the [ACM WiSec Replicability Committee][3] in 2019 and
+in 2021.
 
 ### Complete List
 
@@ -26,11 +27,13 @@ I was happy to be part of the [ACM WiSec 2019 Replicability Committee][3].
 + [Reviewer, IEEE Transactions on Information Forensics & Security][5] 
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022][7]  
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021][6]  
++ [Replicability Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSeC) 2021][8]
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2020][4]  
 + [Replicability Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSeC) 2019][3]
 + [Reviewer, IEEE Design Automation & Test in Europe (DATE) 2019][2] 
 + [Reviewer, Smart Card Research and Advanced Applications (CARDIS) 2018][1] 
 
+[8]: https://wisecdata.ccs.neu.edu/2021.html
 [7]: https://wisec2022.cs.utsa.edu/organization/
 [6]: https://sites.nyuad.nyu.edu/wisec21/organization/
 [5]: /docs/PublonsVerifiedRecord.pdf
