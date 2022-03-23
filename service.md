@@ -24,12 +24,14 @@ I was happy to be part of the [ACM WiSec 2019 Replicability Committee][3].
 
 + [Reviewer, IEEE Transactions on Computers][5] 
 + [Reviewer, IEEE Transactions on Information Forensics & Security][5] 
++ [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022][7]  
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021][6]  
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2020][4]  
 + [Replicability Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSeC) 2019][3]
 + [Reviewer, IEEE Design Automation & Test in Europe (DATE) 2019][2] 
 + [Reviewer, Smart Card Research and Advanced Applications (CARDIS) 2018][1] 
 
+[7]: https://wisec2022.cs.utsa.edu/organization/
 [6]: https://sites.nyuad.nyu.edu/wisec21/organization/
 [5]: /docs/PublonsVerifiedRecord.pdf
 [4]: https://wisec2020.ins.jku.at/organization/
