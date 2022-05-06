@@ -31,6 +31,9 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2022/05/05, Virtual (live streaming)<br/>
+**Can security be broken by software-defined radio leakage? (45-minute Seminar) at TELECOM Paris**<br/>
+
 0. 2021/04/29, Virtual (pre-recorded)<br/>
 **Screaming Channels: When TEMPEST Meets Side Channels and Wireless Security (90-minute Talk)**<br/>
 [Riscure Webcasts][22]<br/>
