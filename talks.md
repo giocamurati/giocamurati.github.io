@@ -33,6 +33,7 @@ The most challenging and rewarding experiences were:
 
 0. 2022/05/05, Virtual (live streaming)<br/>
 **Can security be broken by software-defined radio leakage? (45-minute Seminar) at TELECOM Paris**<br/>
+[Slides][23]
 
 0. 2021/04/29, Virtual (pre-recorded)<br/>
 **Screaming Channels: When TEMPEST Meets Side Channels and Wireless Security (90-minute Talk)**<br/>
@@ -115,3 +116,4 @@ The most challenging and rewarding experiences were:
 [19]: https://confidence-conference.org/
 [20]: https://www.csaw.io/europe
 [22]: https://gateway.on24.com/wcc/eh/2543284/lp/3076847/screaming-channels-when-tempest-meets-side-channels-and-wireless-security/
+[23]: https://giocamurati.github.io/docs/2022-05-05-comelec-noise-sdr-split.pdf
