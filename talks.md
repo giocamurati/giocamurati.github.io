@@ -33,7 +33,7 @@ The most challenging and rewarding experiences were:
 
 0. 2022/05/05, Virtual (live streaming)<br/>
 **Can security be broken by software-defined radio leakage? (45-minute Seminar) at TELECOM Paris**<br/>
-[Slides][23]
+[Slides][23]<br/>
 
 0. 2021/04/29, Virtual (pre-recorded)<br/>
 **Screaming Channels: When TEMPEST Meets Side Channels and Wireless Security (90-minute Talk)**<br/>
@@ -41,6 +41,7 @@ The most challenging and rewarding experiences were:
 
 0. 2020/12/08, Virtual (live streaming)<br/>
 **PhD Thesis Defense: Security Threats Emerging from the Interaction Between Electromagnetic Noise and Radio Transceivers**<br/>
+[Slides][24] [Thesis][25]
 
 0. 2020/11/06, Virtual (live streaming)<br/>
 **Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks (7-minute Talk)**<br/>
@@ -117,3 +118,5 @@ The most challenging and rewarding experiences were:
 [20]: https://www.csaw.io/europe
 [22]: https://gateway.on24.com/wcc/eh/2543284/lp/3076847/screaming-channels-when-tempest-meets-side-channels-and-wireless-security/
 [23]: https://giocamurati.github.io/docs/2022-05-05-comelec-noise-sdr-split.pdf
+[24]: https://giocamurati.github.io/docs/2020_12_08_thesis_split.pdf
+[25]: https://giocamurati.github.io/docs/Thesis_Giovanni_CAMURATI.pdf
