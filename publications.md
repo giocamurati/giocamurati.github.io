@@ -38,7 +38,7 @@ Please visit:<br/>
     <blockquote>
       <div class="title">Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security</div>
       <div class="authors"><u>Giovanni Camurati</u>, Aurélien Francillon</div>
-	  <div class="venue">To appear at 2022 IEEE Symposium on Security and Privacy (SP)</div>
+	  <div class="venue">2022 IEEE Symposium on Security and Privacy (SP)</div>
       <a href="https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00018">DOI</a>
       <a href="https://s3.eurecom.fr/docs/oakland22_camurati.pdf">PDF</a>
       <a href="https://s3.eurecom.fr/bibs/oakland22_camurati.bib">Bibtex</a>
