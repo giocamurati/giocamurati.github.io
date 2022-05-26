@@ -32,7 +32,7 @@ The most challenging and rewarding experiences were:
 ### Complete List
 
 0. 2022/05/24, San Francisco, USA<br/>
-**Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security  (Paper Presentation) at TELECOM Paris**<br/>
+**Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security  (Paper Presentation)**<br/>
 [2022 IEEE Symposium on Security and Privacy (SP)][27]<br/>
 [Slides][26]<br/>
 
