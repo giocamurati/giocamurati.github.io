@@ -1,8 +1,9 @@
-----
--layout: page
--title:
--permalink:
-----
+---
+layout: page
+title:
+permalink:
+---
+
 
 <!--### About me-->
 
