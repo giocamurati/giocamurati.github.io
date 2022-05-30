@@ -31,6 +31,11 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2022/05/24, San Francisco, USA<br/>
+**Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security  (Paper Presentation)**<br/>
+[2022 IEEE Symposium on Security and Privacy (SP)][27]<br/>
+[Slides][26]<br/>
+
 0. 2022/05/05, Virtual (live streaming)<br/>
 **Can security be broken by software-defined radio leakage? (45-minute Seminar) at TELECOM Paris**<br/>
 [Slides][23]<br/>
@@ -120,3 +125,5 @@ The most challenging and rewarding experiences were:
 [23]: https://giocamurati.github.io/docs/2022-05-05-comelec-noise-sdr-split.pdf
 [24]: https://giocamurati.github.io/docs/2020_12_08_thesis_split.pdf
 [25]: https://giocamurati.github.io/docs/Thesis_Giovanni_CAMURATI.pdf
+[26]: https://giocamurati.github.io/docs/2022-05-24-ieeesp22-noise-sdr.pdf
+[27]: https://www.ieee-security.org/TC/SP2022/
