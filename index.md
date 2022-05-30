@@ -1,22 +1,35 @@
---- layout: page title: permalink: ---
+----
+-layout: page
+-title:
+-permalink:
+---
 
 <!--### About me-->
 
 I am Giovanni Camurati, a postdoc in Pr. [Srdjan Capkun][srdjan]'s [System
 Security Group][eth-syssec] at [ETH Zurich][ethz].
 
+### Research
+
 I love studying the security issues that arise from the interplay of hardware,
 software, and radio transceivers in embedded and mobile devices.  My research
 focuses on novel side channel attacks against wireless devices ([Screaming 
 Channels][screaming]), arbitrary modulation of electromagnetic noise from
-software ([Noise-SDR][noisesder]) and distance reduction attacks against UWB ranging
+software ([Noise-SDR][noisesdr]) and distance reduction attacks against UWB ranging
 ([Ghost Peak][ghostpeak]). I have also worked on dynamic firmware analysis
-([Inception][incpetion]) and hardware design (internship in Arm). 
+([Inception][inception]) and hardware design (internship in Arm). 
 Recently, I have also joined the [NCCR Automation][nccrautomation].
 
 My research was published at IEEE S&P, ACM CCS, USENIX Security, IACR TCHES,
 and it was covered by The Register and Le Monde, see [Publications][publications]
 for a complete list.
+
+### Teaching
+
+At EURECOM I helped with the [Wireless Security course][eurecom-wisec].
+I also gave an online guest lecture on this topic at VU Amsterdam.
+
+### Education
 
 Before joining ETH Zurich, I was a Ph.D. student in the [System and Software
 Security Group][s3] at [EURECOM][eurecom] in Sophia-Antipolis, under the
@@ -28,6 +41,11 @@ at [UCLouvain][ucl].
 I hold a Ph.D. from [Sorbonne Université][sorbonne], and a MS in Electronic
 Engineering from [Politecnico di Torino][polito] (cum laude) and from
 [Télécom-ParisTech][tpt] (Diplôme d’ingénieur).
+I did a 6-month internship at [Arm][arm],
+in the CPU design center of Sophia-Antipolis, where many Arm processors were born
+(e.g., [Cortex-A75][cortex-a75]).
+
+### Personal
 
 Skiing, sailing, hiking, traveling, learning languages, and
 designing/building radio controlled model planes ([old video][discus])
