@@ -2,12 +2,19 @@
 -layout: page
 -title:
 -permalink:
----
+----
 
 <!--### About me-->
 
 I am Giovanni Camurati, a postdoc in Pr. [Srdjan Capkun][srdjan]'s [System
 Security Group][eth-syssec] at [ETH Zurich][ethz].
+
+Before joining ETH Zurich, I was a Ph.D. student in the [System and Software
+Security Group][s3] at [EURECOM][eurecom] in Sophia-Antipolis, under the
+supervision of Pr. [Aurélien Francillon][aurel] (co-advised by Pr. [Ludovic
+Apvrille][ludovic]). During my Ph.D., I had the chance to work with Pr.
+[François-Xavier Standaert][fx] and visit the [UCL Crypto Group][ucl-crypto]
+at [UCLouvain][ucl].
 
 ### Research
 
@@ -30,13 +37,6 @@ At EURECOM I helped with the [Wireless Security course][eurecom-wisec].
 I also gave an online guest lecture on this topic at VU Amsterdam.
 
 ### Education
-
-Before joining ETH Zurich, I was a Ph.D. student in the [System and Software
-Security Group][s3] at [EURECOM][eurecom] in Sophia-Antipolis, under the
-supervision of Pr. [Aurélien Francillon][aurel] (co-advised by Pr. [Ludovic
-Apvrille][ludovic]). During his Ph.D., I had the chance to work with Pr.
-[François-Xavier Standaert][fx] and visit the [UCL Crypto Group][ucl-crypto]
-at [UCLouvain][ucl].
 
 I hold a Ph.D. from [Sorbonne Université][sorbonne], and a MS in Electronic
 Engineering from [Politecnico di Torino][polito] (cum laude) and from
