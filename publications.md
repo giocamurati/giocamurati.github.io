@@ -24,7 +24,7 @@ Please visit:<br/>
     <blockquote>
       <div class="title">Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging</div>
       <div class="authors">Patrick Leu*, <u>Giovanni Camurati*</u>, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, Jiska Classen</div> *equal contribution
-	  <div class="venue"31st USENIX Security Symposium (USENIX Security 2022)></div>
+	  <div class="venue">31st USENIX Security Symposium (USENIX Security 2022)></div>
       <a href="https://www.usenix.org/system/files/sec22-leu.pdf">PDF</a>
       <a href="https://github.com/seemoo-lab/uwb-sniffer">Sniffer</a>
       <a href="https://giocamurati.github.io/docs/2022-08-10-usenix22-ghost-peak.pdf">Slides</a>
