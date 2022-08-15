@@ -31,10 +31,16 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2022/08/10, Boston, USA<br/>
+**Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging (Paper Presentation)**<br/>
+[31st USENIX Security Symposium (USENIX Security 2022)][30]<br/>
+[Slides][31] [Paper][32] [Code (UWB Sniffer)][33] [More details][34]<br/>
+
+
 0. 2022/05/24, San Francisco, USA<br/>
 **Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security  (Paper Presentation)**<br/>
 [2022 IEEE Symposium on Security and Privacy (SP)][27]<br/>
-[Slides][26]<br/>
+[Slides][26] [Paper][28] [Code&Data][29]<br/>
 
 0. 2022/05/05, Virtual (live streaming)<br/>
 **Can security be broken by software-defined radio leakage? (45-minute Seminar) at TELECOM Paris**<br/>
@@ -127,3 +133,9 @@ The most challenging and rewarding experiences were:
 [25]: https://giocamurati.github.io/docs/Thesis_Giovanni_CAMURATI.pdf
 [26]: https://giocamurati.github.io/docs/2022-05-24-ieeesp22-noise-sdr.pdf
 [27]: https://www.ieee-security.org/TC/SP2022/
+[28]: https://s3.eurecom.fr/docs/oakland22_camurati.pdf
+[29]: https://github.com/eurecom-s3/noise-sdr
+[31]: https://giocamurati.github.io/docs/2022-08-10-usenix22-ghost-peak.pdf
+[32]: https://www.usenix.org/system/files/sec22-leu.pdf
+[33]: https://github.com/seemoo-lab/uwb-sniffer
+[34]: https://securepositioning.com/ghost-peak/
