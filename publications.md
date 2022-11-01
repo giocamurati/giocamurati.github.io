@@ -17,14 +17,25 @@ Please visit:<br/>
 
 <div class="publ">
 
-<!--<h3>2020</h3>-->
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
+      <div class="title">MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations</div>
+      <div class="authors"><u>Giovanni Camurati</u>, Matteo Dell'Amico, François-Xavier Standaert</div>
+	  <div class="venue">To appear in IACR Transactions on Cryptographic Hardware and Embedded Systems. 2023</div>
+      <a href="https://github.com/giocamurati/mcrank">Code</a>
+      </blockquote>
+  </div>
+</div>
+
 <br/>
 <div class="row">
   <div class="span12">
     <blockquote>
       <div class="title">Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging</div>
       <div class="authors">Patrick Leu*, <u>Giovanni Camurati*</u>, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, Jiska Classen</div> *equal contribution
-	  <div class="venue">31st USENIX Security Symposium (USENIX Security 2022)></div>
+	  <div class="venue">31st USENIX Security Symposium (USENIX Security 2022)</div>
       <a href="https://www.usenix.org/system/files/sec22-leu.pdf">PDF</a>
       <a href="https://github.com/seemoo-lab/uwb-sniffer">Sniffer</a>
       <a href="https://giocamurati.github.io/docs/2022-08-10-usenix22-ghost-peak.pdf">Slides</a>
@@ -33,7 +44,6 @@ Please visit:<br/>
   </div>
 </div>
 
-<!--<h3>2020</h3>-->
 <br/>
 <div class="row">
   <div class="span12">
@@ -82,7 +92,6 @@ Please visit:<br/>
   </div>
 </div>
 
-<!--<h3>2018</h3>-->
 <br/>
 <div class="row">
   <div class="span12">
