@@ -35,7 +35,11 @@ for a complete list.
 ### Teaching
 
 At EURECOM I helped with the [Wireless Security course][eurecom-wisec].
-I also gave an online guest lecture on this topic at VU Amsterdam.
+In 2020 I gave an online guest lecture on this topic at VU Amsterdam.
+At ETH I am involved in the [Security Of Wireless Networks][eth-sown],
+[Information Security Lab][eth-isl], and [System Security][eth-syssec] courses,
+and in the seminar on [Current Topics in Information Security][eth-ctis].
+I also supervise [Master Theses and Semester Projects][eth-projects].
 
 ### Education
 
@@ -127,3 +131,8 @@ are some of my interests outside work. Recently I have been fascinated with
 [nccrautomation]: https://nccr-automation.ch/
 [publications]: https://giocamurati.github.io/publications/
 [sorbonne]: https://www.sorbonne-universite.fr/
+[eth-sown]: https://syssec.ethz.ch/education/sown.html
+[eth-syssec]: https://syssec.ethz.ch/education/system_security.html
+[eth-isl]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=ALLE&lerneinheitId=161941&lang=en
+[eth-ctis]: https://syssec.ethz.ch/education/seminar.html
+[eth-projects]: https://syssec.ethz.ch/education/student_projects.html

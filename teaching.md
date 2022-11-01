@@ -4,6 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### ETH Zurich
+
+At ETH I am involved in the [Security Of Wireless Networks][eth-sown],
+[Information Security Lab][eth-isl], and [System Security][eth-syssec] courses,
+and in the seminar on [Current Topics in Information Security][eth-ctis].
+I also supervise [Master Theses and Semester Projects][eth-projects].
+
 ### VU Amsterdam
 
 #### Guest lecture on Wireless Security (2020/11/25, online)
@@ -76,3 +83,8 @@ ensure that exams start and end on time, and that students behave correctly.
 [8]: https://www.usenix.org/conference/woot18/presentation/ogen
 [9]: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zeng.pdf
 [10]: https://acmccs.github.io/papers/p103-zhangAemb.pdf
+[eth-sown]: https://syssec.ethz.ch/education/sown.html
+[eth-syssec]: https://syssec.ethz.ch/education/system_security.html
+[eth-isl]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=ALLE&lerneinheitId=161941&lang=en
+[eth-ctis]: https://syssec.ethz.ch/education/seminar.html
+[eth-projects]: https://syssec.ethz.ch/education/student_projects.html
