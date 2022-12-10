@@ -24,9 +24,9 @@ Please visit:<br/>
       <div class="title">MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations</div>
       <div class="authors"><u>Giovanni Camurati</u>, Matteo Dell'Amico, François-Xavier Standaert</div>
 	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. Vol. 2023, No. 1, pp. 277–300</div>
-      <a href="https://tches.iacr.org/index.php/TCHES/article/view/9953/9456">Paper</a>
-      <a href="https://github.com/giocamurati/mcrank">Code</a>
       <a href="https://doi.org/10.46586/tches.v2023.i1.277-300">DOI</a>
+      <a href="https://tches.iacr.org/index.php/TCHES/article/view/9953/9456">PDF</a>
+      <a href="https://github.com/giocamurati/mcrank">Code</a>
       </blockquote>
   </div>
 </div>
