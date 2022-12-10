@@ -23,8 +23,10 @@ Please visit:<br/>
     <blockquote>
       <div class="title">MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations</div>
       <div class="authors"><u>Giovanni Camurati</u>, Matteo Dell'Amico, François-Xavier Standaert</div>
-	  <div class="venue">To appear in IACR Transactions on Cryptographic Hardware and Embedded Systems. 2023</div>
+	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. Vol. 2023, No. 1, pp. 277–300</div>
+      <a href="https://tches.iacr.org/index.php/TCHES/article/view/9953/9456">Paper</a>
       <a href="https://github.com/giocamurati/mcrank">Code</a>
+      <a href="https://doi.org/10.46586/tches.v2023.i1.277-300">DOI</a>
       </blockquote>
   </div>
 </div>
@@ -79,7 +81,7 @@ Please visit:<br/>
     <blockquote>
       <div class="title">Understanding Screaming Channels: From a Detailed Analysis to Improved Attacks</div>
       <div class="authors"><u>Giovanni Camurati</u>, Aurélien Francillon, François-Xavier Standaert</div>
-	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. 2020, 3 (Jun. 2020), 358-401</div>
+	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. Vol. 2020, No. 3, pp. 358–401</div>
        <div class="prize">Google Bughunter Program, Honorable Mention
        <!--<a href="https://bughunter.withgoogle.com/profile/22a6711b-ddb6-4f2f-91ac-71145c3362ec"><b>Honorable Mention</b></a>-->
        </div>
