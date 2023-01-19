@@ -21,6 +21,17 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
+      <div class="title">EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems</div>
+      <div class="authors">Marc Roeschlin, <u>Giovanni Camurati</u>, Pascal Brunner, Mridula Singh, Srdjan Capkun</div>
+	  <div class="venue">To appear at NDSS 2023</div>
+      </blockquote>
+  </div>
+</div>
+
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
       <div class="title">MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations</div>
       <div class="authors"><u>Giovanni Camurati</u>, Matteo Dell'Amico, François-Xavier Standaert</div>
 	  <div class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems. Vol. 2023, No. 1, pp. 277–300</div>
