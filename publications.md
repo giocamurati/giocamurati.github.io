@@ -24,6 +24,7 @@ Please visit:<br/>
       <div class="title">EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems</div>
       <div class="authors">Marc Roeschlin, <u>Giovanni Camurati</u>, Pascal Brunner, Mridula Singh, Srdjan Capkun</div>
 	  <div class="venue">To appear at NDSS 2023</div>
+      <a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f271_paper.pdf">PDF</a>
       </blockquote>
   </div>
 </div>
