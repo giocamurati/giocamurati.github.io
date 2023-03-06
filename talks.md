@@ -135,6 +135,7 @@ The most challenging and rewarding experiences were:
 [27]: https://www.ieee-security.org/TC/SP2022/
 [28]: https://s3.eurecom.fr/docs/oakland22_camurati.pdf
 [29]: https://github.com/eurecom-s3/noise-sdr
+[30]: https://www.usenix.org/conference/usenixsecurity22
 [31]: https://giocamurati.github.io/docs/2022-08-10-usenix22-ghost-peak.pdf
 [32]: https://www.usenix.org/system/files/sec22-leu.pdf
 [33]: https://github.com/seemoo-lab/uwb-sniffer
