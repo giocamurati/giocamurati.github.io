@@ -25,9 +25,10 @@ focuses on novel side channel attacks against wireless devices ([Screaming
 Channels][screaming]), arbitrary modulation of electromagnetic noise from
 software ([Noise-SDR][noisesdr]) and distance reduction attacks against UWB ranging
 ([Ghost Peak][ghostpeak]). I have also worked on dynamic firmware analysis
-([Inception][inception]) and hardware design (internship in Arm). 
+([Inception][inception]), key rank estimation ([MCRank][mcrank]),
+and hardware design (internship in Arm). 
 Recently, I have also joined the [NCCR Automation][nccrautomation] and worked on 
-CAN Bus intrusion detection ([edgetdc][edgetdc]).
+CAN Bus intrusion detection ([EdgeTDC][edgetdc]).
 
 My research was published at IEEE S&P, ACM CCS, USENIX Security, NDSS, IACR TCHES,
 and it was covered by The Register and Le Monde, see [Publications][publications]
@@ -116,6 +117,7 @@ are some of my interests outside work. Recently I have been fascinated with
 [ghostpeak]: https://securepositioning.com/ghost-peak/
 [inception]: https://inception-framework.github.io/inception/
 [edgetdc]: https://www.ndss-symposium.org/ndss-paper/edgetdc-on-the-security-of-time-difference-of-arrival-measurements-in-can-bus-systems/
+[mcrank]: https://tches.iacr.org/index.php/TCHES/article/view/9953
 [hack-dac-19-win]: https://twitter.com/s3eurecom/status/1136198571785641985?s=20
 [hack-dac-19]: https://hackat.events/dac19/
 [google-faculty-award]: https://docs.google.com/document/d/e/2PACX-1vRYagtwX_MRJUCc_3KMWhmBNnKz2ZHh0vM63B7OxLWWEfghrWjySPoVYtYum9BBVnrlx-wLi0q6KGAP/pub
