@@ -23,6 +23,7 @@ in 2021.
 
 ### Complete List
 
++ [PC Member, IEEE Symposium on Security and Privacy (IEEE SP) 2024][9]
 + [Reviewer, IEEE Transactions on Computers][5] 
 + [Reviewer, IEEE Transactions on Information Forensics & Security][5] 
 + [Poster/Demo Program Committee, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022][7]  
@@ -33,6 +34,7 @@ in 2021.
 + [Reviewer, IEEE Design Automation & Test in Europe (DATE) 2019][2] 
 + [Reviewer, Smart Card Research and Advanced Applications (CARDIS) 2018][1] 
 
+[9]: https://sp2024.ieee-security.org/cfpapers.html
 [8]: https://wisecdata.ccs.neu.edu/2021.html
 [7]: https://wisec2022.cs.utsa.edu/organization/
 [6]: https://sites.nyuad.nyu.edu/wisec21/organization/
