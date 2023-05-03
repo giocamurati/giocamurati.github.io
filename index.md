@@ -37,6 +37,8 @@ for a complete list.
 ### Service
 
 I am a PC member of [IEEE SP 2024][pc-sp24] and [ACM CCS 2023][pc-ccs23].
+I was part of the WiSec Replicability Committee in 2019 and 2021 and of the
+WiSec Demo/Poster Committee in 2020, 2021, and 2022.
 
 ### Teaching
 
