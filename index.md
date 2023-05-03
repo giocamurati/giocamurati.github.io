@@ -34,6 +34,10 @@ My research was published at IEEE S&P, ACM CCS, USENIX Security, NDSS, IACR TCHE
 and it was covered by The Register and Le Monde, see [Publications][publications]
 for a complete list.
 
+### Service
+
+I am a PC member of [IEEE SP 2024][pc-sp24] and [ACM CCS 2023][pc-ccs23].
+
 ### Teaching
 
 At EURECOM I helped with the [Wireless Security course][eurecom-wisec].
@@ -140,3 +144,7 @@ are some of my interests outside work. Recently I have been fascinated with
 [eth-isl]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=ALLE&lerneinheitId=161941&lang=en
 [eth-ctis]: https://syssec.ethz.ch/education/seminar.html
 [eth-projects]: https://syssec.ethz.ch/education/student_projects.html
+
+[pc-ccs23]: https://www.sigsac.org/ccs/CCS2023/index.html
+[pc-sp24]: https://sp2024.ieee-security.org/cfpapers.html
+
