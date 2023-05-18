@@ -24,7 +24,8 @@ software, and radio transceivers in embedded and mobile devices.  My research
 focuses on novel side channel attacks against wireless devices ([Screaming 
 Channels][screaming]), arbitrary modulation of electromagnetic noise from
 software ([Noise-SDR][noisesdr]) and distance reduction attacks against UWB ranging
-([Ghost Peak][ghostpeak]). I have also worked on dynamic firmware analysis
+([Ghost Peak][ghostpeak], [Time for Change][timeforchange]).
+I have also worked on dynamic firmware analysis
 ([Inception][inception]), key rank estimation ([MCRank][mcrank]),
 and hardware design (internship in Arm). 
 Recently, I have also joined the [NCCR Automation][nccrautomation] and worked on 
@@ -121,6 +122,7 @@ are some of my interests outside work. Recently I have been fascinated with
 [screaming]: https://eurecom-s3.github.io/screaming_channels/
 [noisesdr]: https://github.com/eurecom-s3/noise-sdr
 [ghostpeak]: https://securepositioning.com/ghost-peak/
+[timeforchange]: https://arxiv.org/pdf/2305.09433v1.pdf
 [inception]: https://inception-framework.github.io/inception/
 [edgetdc]: https://www.ndss-symposium.org/ndss-paper/edgetdc-on-the-security-of-time-difference-of-arrival-measurements-in-can-bus-systems/
 [mcrank]: https://tches.iacr.org/index.php/TCHES/article/view/9953

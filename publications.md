@@ -21,6 +21,18 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
+      <div class="title">Time for Change: How Clocks Break UWB Secure Ranging</div>
+      <div class="authors">Claudio Anliker, <u>Giovanni Camurati</u>, Srdjan Capkun</div>
+	  <div class="venue">To appear at 32nd USENIX Security Symposium (USENIX Security 2023)</div>
+      <a href="https://arxiv.org/pdf/2305.09433v1.pdf">PDF (preprint)</a>
+      </blockquote>
+  </div>
+</div>
+
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
       <div class="title">EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems</div>
       <div class="authors">Marc Roeschlin, <u>Giovanni Camurati</u>, Pascal Brunner, Mridula Singh, Srdjan Capkun</div>
 	  <div class="venue">The Network and Distributed System Security Symposium (NDSS 2023)</div>
