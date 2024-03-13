@@ -31,6 +31,9 @@ The most challenging and rewarding experiences were:
 
 ### Complete List
 
+0. 2024/03/13, Virtual<br/>
+**Distance bounding and car keys (20-minute seminar)**<br/>
+
 0. 2022/08/10, Boston, USA<br/>
 **Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging (Paper Presentation)**<br/>
 [31st USENIX Security Symposium (USENIX Security 2022)][30]<br/>

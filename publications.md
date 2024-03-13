@@ -21,10 +21,23 @@ Please visit:<br/>
 <div class="row">
   <div class="span12">
     <blockquote>
+      <div class="title">PURE: Payments with UWB RElay-protection</div>
+      <div class="authors">Daniele Coppola, <u>Giovanni Camurati</u>, Claudio Anliker, Xenia Hofmeier, Patrick Shaller, David Basin, Srdjan Capkun</div>
+	  <div class="venue">To appear at 33nd USENIX Security Symposium (USENIX Security 2024)</div>
+      <a href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/662474/pure_paper.pdf">PDF (preprint)</a>
+      </blockquote>
+  </div>
+</div>
+
+
+<br/>
+<div class="row">
+  <div class="span12">
+    <blockquote>
       <div class="title">Time for Change: How Clocks Break UWB Secure Ranging</div>
       <div class="authors">Claudio Anliker, <u>Giovanni Camurati</u>, Srdjan Capkun</div>
-	  <div class="venue">To appear at 32nd USENIX Security Symposium (USENIX Security 2023)</div>
-      <a href="https://arxiv.org/pdf/2305.09433v1.pdf">PDF (preprint)</a>
+	  <div class="venue">32nd USENIX Security Symposium (USENIX Security 2023)</div>
+      <a href="https://www.usenix.org/system/files/usenixsecurity23-anliker.pdf">PDF</a>
       </blockquote>
   </div>
 </div>
