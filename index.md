@@ -153,6 +153,6 @@ are some of my interests outside work. Recently I have been fascinated with
 
 [pc-ccs23]: https://www.sigsac.org/ccs/CCS2023/index.html
 [pc-sp24]: https://sp2024.ieee-security.org/cfpapers.html
-[pc-sp22]: https://sp2025.ieee-security.org/cfpapers.html
+[pc-sp25]: https://sp2025.ieee-security.org/cfpapers.html
 [pc-wisec24]: https://wisec2024.kaist.ac.kr/
 
