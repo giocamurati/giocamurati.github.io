@@ -73,7 +73,16 @@
   booktitle={Encyclopedia of Cryptography, Security and Privacy},
   pages={1--4},
   year={2023},
-  publisher={Springer}
+  publisher={Springer},
+  abstract={Modern devices often require wireless communication interfaces and
+            therefore contain both digital, analog, and RF electronics. The term
+            “Screaming Channels” denotes a leakage of sensitive information that
+            occurs when side-channel leakage is accidentally broadcast by the
+            radio transmitter alongside the intentional wireless communication,
+            making it possible to recover cryptographic secrets from a large
+            distance. Mixed-signal chips, containing both digital and radio
+            blocks on the same chip, are especially vulnerable to Screaming
+            Channels.}
 }
 
 @inproceedings{roeschlin2023edgetdc,
@@ -291,7 +300,35 @@
   author={Camurati, Giovanni and Francillon, Aur{\'e}lien and Standaert, Fran{\c{c}}ois-Xavier},
   journal={IACR transactions on cryptographic hardware and embedded systems},
   number={3},
-  year={2020}
+  year={2020},
+  abstract={Recently, some wireless devices have been found vulnerable to a
+            novel class of side-channel attacks, called Screaming Channels.
+            These leaks might appear if the sensitive leaks from the processor
+            are unintentionally broadcast by a radio transmitter placed on the
+            same chip. Previous work focuses on identifying the root causes, and
+            on mounting an attack at a distance considerably larger than the one
+            achievable with conventional electromagnetic side channels, which
+            was demonstrated in the low-noise environment of an anechoic
+            chamber. However, a detailed understanding of the leak, attacks that
+            take full advantage of the novel vector, and security evaluations in
+            more practical scenarios are still missing. In this paper, we
+            conduct a thorough experimental analysis of the peculiar properties
+            of Screaming Channels. For example, we learn about the coexistence
+            of intended and unintended data, the role of distance and other
+            parameters on the strength of the leak, the distortion of the
+            leakmodel, and the portability of the profiles. With such insights,
+            we build better attacks. We profile a device connected via cable
+            with 10000·500 traces. Then, 5 months later, we attack a different
+            instance at 15m in an office environment. We recover the AES-128 key
+            with 5000·1000 traces and key enumeration up to $2^{23}$. Leveraging
+            spatial diversity, we mount some attacks in the presence of
+            obstacles. As a first example of application to a real system, we
+            show a proof-of-concept attack against the authentication method of
+            Google Eddystone beacons. On the one side, this work lowers the bar
+            for more realistic attacks, highlighting the importance of the novel
+            attack vector. On the other side, it provides a broader security
+            evaluation of the leaks, helping the defender and radio designers to
+            evaluate risk, and the need of countermeasures.}
 }
 
 @inproceedings{camurati2018screaming,
