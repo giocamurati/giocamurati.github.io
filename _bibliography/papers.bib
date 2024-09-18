@@ -1,115 +1,389 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
+@inproceedings{coppola2024pure,
   selected={true},
-  inspirehep_id = {3255}
+  award={Distinguished Paper Award},
+  award_name={Distinguished Paper Award},
+  pdf={https://www.usenix.org/system/files/usenixsecurity24-coppola.pdf},
+  code={https://github.com/pure-uwb},
+  abbr={USENIX Security},
+  title={PURE: Payments with UWB RElay-protection},
+  author={Coppola, Daniele and Camurati, Giovanni and Anliker, Claudio and Hofmeier, Xenia and Shaller, Patrick and Basin, David and Capkun, Srdjan},
+  booktitle={33rd USENIX Security Symposium (USENIX Security 2024), Philadelphia, PA, USA, August 14-16, 2024},
+  year={2024},
+  abstract={Contactless payments are now widely used and are expected to reach
+            \$10 trillion worth of transactions by 2027. Although convenient,
+            contactless payments are vulnerable to relay attacks that enable
+            attackers to execute fraudulent payments. A number of
+            countermeasures have been proposed to address this issue, including
+            Mastercard’s relay protection mechanism. These countermeasures,
+            although effective against some Commercial off-the-shelf (COTS)
+            relays, fail to prevent physical-layer relay attacks. In this work,
+            we leverage the Ultra-Wide Band (UWB) radios incorporated in major
+            smartphones, smartwatches, tags and accessories, and introduce PURE,
+            the first UWB-based relay protection that integrates smoothly into
+            existing contactless payment standards, and prevents even the most
+            sophisticated physical layer attacks. PURE extends EMV payment
+            protocols that are executed between cards and terminals, and does
+            not require any modification to the backend of the issuer, acquirer,
+            or payment network. PURE further tailors UWB ranging to the payment
+            environment (i.e., wireless channels) to achieve both reliability
+            and resistance to all known physical-layer distance reduction
+            attacks against UWB 802.15.4z. We implement PURE within the EMV
+            standard on modern smartphones, and evaluate its performance in a
+            realistic deployment. Our experiments show that PURE provides a
+            sub-meter relay protection with minimal execution overhead (41 ms).
+            We formally verify the security of PURE’s integration within
+            Mastercard’s EMV protocol using the Tamarin prover.}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{anliker2023time,
+  selected={true},
+  pdf={https://www.usenix.org/system/files/usenixsecurity23-anliker.pdf},
+  abbr={USENIX Security},
+  title={Time for Change: How Clocks Break UWB Secure Ranging},
+  author={Anliker, Claudio and Camurati, Giovanni and Capkun, Srdjan},
+  journal={32nd USENIX Security Symposium (USENIX Security 2023), Anaheim, CA, USA, August 9–11, 2023},
+  year={2023},
+  abstract={Due to its suitability for wireless ranging, Ultra-Wide Band
+            (UWB) has gained traction over the past years. UWB chips
+            have been integrated into consumer electronics and considered
+            for security-relevant use cases, such as access control
+            or contactless payments. However, several publications in
+            the recent past have shown that it is difficult to protect the
+            integrity of distance measurements on the physical layer. In
+            this paper, we identify transceiver clock imperfections as a
+            new, important parameter that has been widely ignored so far.
+            We present Mix-Down and Stretch-and-Advance, two novel attacks
+            against the current (IEEE 802.15.4z) and the upcoming
+            (IEEE 802.15.4ab) UWB standard, respectively. We demonstrate
+            Mix-Down on commercial chips and achieve distance
+            reductions from 10 m to 0 m. For the Stretch-and-Advance
+            attack, we show analytically that the current proposal of IEEE
+            802.15.4ab allows reductions of over 90 m. To prevent the
+            attack, we propose and analyze an effective countermeasure.}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@incollection{camurati2023screaming,
+  selected={false},
+  abbr={Encyclopedia},
+  title={Screaming Channels},
+  author={Camurati, Giovanni and Francillon, Aur{\'e}lien},
+  booktitle={Encyclopedia of Cryptography, Security and Privacy},
+  pages={1--4},
+  year={2023},
+  publisher={Springer}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{roeschlin2023edgetdc,
+  selected={true},
+  pdf={https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f271_paper.pdf},
+  abbr={NDSS},
+  title={EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems},
+  author={Roeschlin, Marc and Camurati, Giovanni and Brunner, Pascal and Singh, Mridula and Capkun, Srdjan},
+  booktitle={Network and Distributed System Security Symposium (NDSS) 2023},
+  year={2023},
+  abstract={A Controller Area Network (CAN bus) is a message-based protocol for
+            intra-vehicle communication designed mainly with robustness and
+            safety in mind. In real-world deployments, CAN bus does not offer
+            common security features such as message authentication. Due to the
+            fact that automotive suppliers need to guarantee interoperability,
+            most manufacturers rely on a decade-old standard (ISO 11898) and
+            changing the format by introducing MACs is impractical. Research has
+            therefore suggested to address this lack of authentication with CAN
+            bus Intrusion Detection Systems (IDSs) that augment the bus with
+            separate modules. IDSs attribute messages to the respective sender
+            by measuring physical-layer features of the transmitted frame. Those
+            features are based on timings, voltage levels, transients and, as of
+            recently, Time Difference of Arrival (TDoA) measurements. In this
+            work, we show that TDoA-based approaches presented in prior art are
+            vulnerable to novel spoofing and poisoning attacks. We describe how
+            those proposals can be fixed and present our own method called
+            EdgeTDC. Unlike existing methods, EdgeTDC does not rely on
+            Analog-to-digital converters (ADCs) with high sampling rate and high
+            dynamic range to capture the signals at sample level granularity.
+            Our method uses time-to-digital converters (TDCs) to detect the
+            edges and measure their timings. Despite being inexpensive to
+            implement, TDCs offer low latency, high location precision and the
+            ability to measure every single edge (rising and falling) in a
+            frame. Measuring each edge makes analog sampling redundant and
+            allows the calculation of statistics that can even detect tampering
+            with parts of a message. Through extensive experimentation, we show
+            that EdgeTDC can successfully thwart masquerading attacks in the CAN
+            system of modern vehicles.}
 }
 
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+@article{camurati2023mcrank,
+  selected={true},
+  pdf={https://tches.iacr.org/index.php/TCHES/article/view/9953/9456},
+  abbr={IACR TCHES},
+  code={https://github.com/giocamurati/mcrank},
+  title={MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations},
+  author={Camurati, Giovanni and Dell’Amico, Matteo and Standaert, Fran{\c{c}}ois-Xavier},
+  journal={IACR Transactions on Cryptographic Hardware and Embedded Systems},
+  volume={2023},
+  number={1},
+  pages={277--300},
+  year={2023},
+  publisher={Ruhr-Universit{\"a}t Bochum},
+  abstract={Key rank estimation provides a measure of the effort that the
+            attacker has to spend bruteforcing the key of a cryptographic
+            algorithm, after having gained some information from a side channel
+            attack. We present MCRank, a novel method for key rank estimation
+            based on Monte Carlo sampling. MCRank provides an unbiased estimate
+            of the rank and a confidence interval. Its bounds rapidly become
+            tight for increasing sample size, with a corresponding linear
+            increase of the execution time. When applied to evaluate an AES-128
+            implementation, MCRank can be orders of magnitude faster than the
+            state-of-the-art histogram-based enumeration method for comparable
+            bound tightness. It also scales better than previous work for large
+            keys, up to 2048 bytes. Besides its conceptual simplicity and
+            efficiency, MCRank can assess for the first time the security of
+            large keys even if the probability distributions given the side
+            channel leakage are not independent between subkeys, which occurs,
+            for example, when evaluating the leakage security of an AES-256
+            implementation.}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@inproceedings{camurati2022noise,
+  selected={true},
+  pdf={https://s3.eurecom.fr/docs/oakland22_camurati.pdf},
+  abbr={IEEE S \& P},
+  code={https://github.com/eurecom-s3/noise-sdr},
+  title={Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security},
+  author={Camurati, Giovanni and Francillon, Aur{\'e}lien},
+  booktitle={2022 IEEE Symposium on Security and Privacy (SP)},
+  pages={1193--1210},
+  year={2022},
+  organization={IEEE},
+  abstract={Electronic devices generate electromagnetic noise, also known as EM
+            leakage when the noise leaks information. Many recent research
+            papers exploit the fact that software activity can exploit this
+            leakage to generate radio signals. This process breaks the isolation
+            between simple unprivileged code and the radio spectrum, letting an
+            attacker generate physical radio signals without accessing any radio
+            interface. Previous work has discovered many leakage sources and
+            covert communication channels, which generally use simple modulation
+            schemes. However, a fundamental research question has been left
+            unexplored: to which point can attackers shape electromagnetic
+            leakage into signals of their choice? The answer to this question
+            has an important security impact that goes beyond specific attacks
+            or platforms. Indeed, arbitrary signal modulation is a useful
+            primitive. This would allow attackers to use advanced modulations
+            and better exploit the channel (leakage) capacity, for example, to
+            establish advanced communication channels, or to inject malicious
+            signals into victim receivers. At a first analysis, arbitrary
+            modulation seems impossible: software has limited control on the
+            leakage and existing attacks are therefore constrained to on-off
+            keying or frequency-shift keying. In this paper, we demonstrate that
+            shaping arbitrary signals out of electromagnetic noise is possible
+            from unprivileged software. For this we leverage fully-digital radio
+            techniques and call our method Noise-SDR because, similarly to a
+            software-defined radio, it can transmit a generic signal synthesized
+            in software. We demonstrate our approach with a practical
+            implementation with DRAM accesses on ARMv7-A, ARMv8-A, x86-64, and
+            MIPS32. We evaluate it on different types of devices, including
+            smartphones, a laptop, a desktop, and a Linux-based IoT device.
+            Although power, frequency and bandwidth are constrained by the
+            properties of the leakage, we present several case studies,
+            including transmission with advanced protocols, device tracking, and
+            signal injection.}
 }
+
+@inproceedings{leu2022ghost,
+  selected={true},
+  //annotation={*equal contribution},
+  pdf={https://www.usenix.org/system/files/sec22-leu.pdf},
+  abbr={USENIX Security},
+  code={https://github.com/seemoo-lab/uwb-sniffer},
+  website={https://securepositioning.ch/ghost-peak/},
+  //video={https://www.youtube.com/watch?v=5Ghojm_lXRw},
+  title={Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging},
+  author={Leu*, Patrick and Camurati*, Giovanni and Heinrich, Alexander and Roeschlin, Marc and Anliker, Claudio and Hollick, Matthias and Capkun, Srdjan and Classen, Jiska},
+  booktitle={31st USENIX Security Symposium (USENIX Security 22)},
+  pages={1343--1359},
+  year={2022},
+  abstract={We present the first over-the-air attack on IEEE 802.15.4z High-Rate
+            Pulse Repetition Frequency (HRP) Ultra-Wide Band (UWB) distance
+            measurement systems. Specifically, we demonstrate a practical
+            distance reduction attack against pairs of Apple U1 chips (embedded
+            in iPhones and AirTags), as well as against U1 chips inter-operating
+            with NXP and Qorvo UWB chips. These chips have been deployed in a
+            wide range of phones and cars to secure car entry and start and are
+            projected for secure contactless payments, home locks, and contact
+            tracing systems. Our attack operates without any knowledge of
+            cryptographic material, results in distance reductions from 12m
+            (actual distance) to 0m (spoofed distance) with attack success
+            probabilities of up to 4\%, and requires only an inexpensive (USD 65)
+            off-the-shelf device. Access control can only tolerate sub-second
+            latencies to not inconvenience the user, leaving little margin to
+            perform time-consuming verifications. These distance reductions
+            bring into question the use of UWB HRP in security-critical
+            applications.}
+}
+
+@phdthesis{camurati2020security,
+  selected={true},
+  award={Runner-up PhD Award from the GDR Sécurité Informatique},
+  award_name={Runner-up PhD Award from the GDR Sécurité Informatique},
+  //pdf={Thesis_Giovanni_CAMURATI.pdf},
+  pdf={https://theses.hal.science/tel-03414339/file/CAMURATI_Giovanni_2020.pdf},
+  abbr={PhD Thesis},
+  title={Security Threats Emerging from the Interaction Between Digital Activity and Radio Transceiver},
+  author={Camurati, Giovanni},
+  year={2020},
+  school={EURECOM - Sorbonne Universit{\'e}},
+  abstract={Modern connected devices need both computing and communication
+            capabilities. For example, smartphones carry a multi-core processor,
+            memory, and several radio transceivers on the same platform. Simpler
+            embedded systems often use a mixed-signal chip that contains both
+            a microcontroller and a transceiver. The physical proximity between
+            digital blocks, which are strong sources of electromagnetic noise,
+            and radio transceivers, which are sensitive to such noise, can cause
+            functional and performance problems. Indeed, there exist many noise
+            coupling paths between components on the same platform or silicon die.
+            In this thesis we explore the security issues that arise from the
+            interaction between digital and radio blocks, and we propose two novel
+            attacks. With Screaming Channels, we demonstrate that radio
+            transmitters on mixed-signal chips might broadcast some information about
+            the digital activity of the device, making side channel attacks possible
+            from a large distance. With Noise-SDR, we show that attackers can
+            shape arbitrary radio signals from the electromagnetic noise triggered
+            by software execution, to interact with radio receivers, possibly on
+            the same platform.}
+}
+
+@article{corteggiani2020soc,
+  selected={true},
+  pdf={https://research.vu.nl/ws/portalfiles/portal/287512348/SoC_Security_Evaluation_Reflections_on_Methodology_and_Tooling.pdf},
+  abbr={IEEE Design \& Test},
+  title={SoC Security Evaluation: Reflections on Methodology and Tooling},
+  author={Corteggiani, Nassim and Camurati, Giovanni and Muench, Marius and Poeplau, Sebastian and Francillon, Aur{\'e}lien},
+  journal={IEEE Design \& Test},
+  volume={38},
+  number={1},
+  pages={7--13},
+  year={2020},
+  publisher={IEEE},
+  abstract={The growing complexity of Systems-on-Chip challenges our ability
+            to ensure their correct operation, on which
+            we rely for more and more sensitive activities. Many security
+            vulnerabilities appear in subtle and unexpected ways in the
+            interaction among blocks and across layers, where current
+            verification tools fail at catching them or do not scale. For this
+            reason, security evaluation still heavily relies on manual review.
+            Inspired by the Hack@DAC19 contest, we present our reflections
+            on this topic from a software and system security perspective.
+            We outline an approach that extends the dynamic analysis of
+            firmware to the hardware.}
+}
+
+@article{camurati2020understanding,
+  selected={true},
+  award={Google Bughunter Program, Honorable Mention},
+  award_name={Google Bughunter Program, Honorable Mention},
+  pdf={https://tches.iacr.org/index.php/TCHES/article/view/8594/8161},
+  abbr={IACR TCHES},
+  code={https://github.com/eurecom-s3/screaming_channels},
+  website={https://eurecom-s3.github.io/screaming_channels/},
+  title={Understanding screaming channels: From a detailed analysis to improved attacks},
+  author={Camurati, Giovanni and Francillon, Aur{\'e}lien and Standaert, Fran{\c{c}}ois-Xavier},
+  journal={IACR transactions on cryptographic hardware and embedded systems},
+  number={3},
+  year={2020}
+}
+
+@inproceedings{camurati2018screaming,
+  selected={true},
+  award={3rd place at CSAW Europe 2018},
+  award_name={3rd place at CSAW Europe 2018},
+  pdf={http://s3.eurecom.fr/docs/ccs18_camurati.pdf},
+  abbr={ACM CCS},
+  code={https://github.com/eurecom-s3/screaming_channels},
+  website={https://eurecom-s3.github.io/screaming_channels/},
+  title={Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers},
+  author={Camurati, Giovanni and Poeplau, Sebastian and Muench, Marius and Hayes, Tom and Francillon, Aur{\'e}lien},
+  booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={163--177},
+  year={2018},
+  organization={ACM},
+  abstract={This paper presents a new side channel that affects mixed-signal
+            chips used in widespread wireless communication protocols, such as
+            Bluetooth and WiFi. This increasingly common type of chip includes
+            the radio transceiver along with digital logic on the same
+            integrated circuit. In such systems, the radio transmitter may
+            unintentionally broadcast sensitive information from hardware
+            cryptographic components or software executing on the CPU. The
+            well-known electromagnetic (EM) leakage from digital logic is
+            inadvertently mixed with the radio carrier, which is amplified and
+            then transmitted by the antenna. We call the resulting leak
+            screaming channels. Attacks exploiting such a side channel may
+            succeed over a much longer distance than attacks exploiting usual EM
+            side channels. The root of the problem is that mixed-signal chips
+            include both digital circuits and analog circuits on the same
+            silicon die in close physical proximity. While processing data, the
+            digital circuits on these chips generate noise, which can be picked
+            up by noise-sensitive analog radio components, ultimately leading to
+            leakage of sensitive information. We investigate the physical
+            reasons behind the channel, we measure it on several popular devices
+            from different vendors (including Nordic Semiconductor nRF52832, and
+            Qualcomm Atheros AR9271), and we demonstrate a complete key recovery
+            attack against the nRF52832 chip. In particular, we retrieve the
+            full key from the AES-128 implementation in tinyAES at a distance of
+            10 m using template attacks. Additionally, we recover the key used
+            by the AES-128 implementation in mbedTLS at a distance of 1 m with a
+            correlation attack. Screaming channel attacks change the threat
+            models of devices with mixed-signal chips, as those devices are now
+            vulnerable from a distance. More specifically, we argue that
+            protections against side channels (such as masking or hiding) need
+            to be used on this class of devices. Finally, chips implementing
+            other widespread protocols (e.g., 4G/LTE, RFID) need to be inspected
+            to determine whether they are vulnerable to screaming channel
+            attacks.}
+}
+
+@inproceedings{corteggiani2018inception,
+  selected={true},
+  pdf={https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-corteggiani.pdf},
+  abbr={USENIX Security},
+  code={https://github.com/Inception-framework},
+  website={https://inception-framework.github.io/inception/},
+  title={Inception: system-wide security testing of real-world embedded systems software},
+  author={Corteggiani, Nassim and Camurati, Giovanni and Francillon, Aur{\'e}lien},
+  booktitle={27th USENIX Security Symposium (USENIX Security 18)},
+  pages={309--326},
+  year={2018},
+  abstract={Connected embedded systems are becoming widely deployed, and their
+            security is a serious concern. Current techniques for security
+            testing of embedded software rely either on source code or on
+            binaries. Detecting vulnerabilities by testing binary code is
+            harder, because source code semantics are lost. Unfortunately, in
+            embedded systems, high-level source code (C/C++) is often mixed with
+            hand-written assembly, which cannot be directly handled by current
+            source-based tools.
+            In this paper we introduce Inception, a framework to perform
+            security testing of complete real-world embedded firmware. Inception
+            introduces novel techniques for symbolic execution in embedded
+            systems. In particular, Inception Translator generates and merges
+            LLVM bitcode from high-level source code, hand-written assembly,
+            binary libraries, and part of the processor hardware behavior. This
+            design reduces differences with real execution as well as the manual
+            effort. The source code semantics are preserved, improving the
+            effectiveness of security checks. Inception Symbolic Virtual
+            Machine, based on KLEE, performs symbolic execution, using several
+            strategies to handle different levels of memory abstractions,
+            interaction with peripherals, and interrupts. Finally, the Inception
+            Debugger is a high-performance JTAG debugger which performs
+            redirection of memory accesses to the real hardware.
+            We first validate our implementation using 53000 tests comparing
+            Inception's execution to concrete execution on an Arm Cortex-M3
+            chip. We then show Inception's advantages on a benchmark made of
+            1624 synthetic vulnerable programs, four real-world open source and
+            industrial applications, and 19 demos. We discovered eight crashes
+            and two previously unknown vulnerabilities, demonstrating the
+            effectiveness of Inception as a tool to assist embedded device
+            firmware testing.}
+}
+
+
