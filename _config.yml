@@ -8,7 +8,7 @@ middle_name:
 last_name:
 email: giovanni.camurati@inf.ethz.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    <b>Postdoctoral Researcher &#x2022 ETH Zurich &#x2022 Security</b>
+  Postdoctoral Researcher &#x2022 ETH Zurich &#x2022 System Security
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
