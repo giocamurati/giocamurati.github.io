@@ -9,6 +9,7 @@ nav_order: 6
 
 #### PC Member
 
+- [IEEE Symposium on Security and Privacy (IEEE SP) 2026][pc5]
 - [IEEE Symposium on Security and Privacy (IEEE SP) 2025][pc4]
 - [IEEE Symposium on Security and Privacy (IEEE SP) 2024][pc3]
 - [ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2024][pc2]
@@ -36,6 +37,7 @@ nav_order: 6
 [pc2]: https://wisec2024.kaist.ac.kr/program-committee/
 [pc3]: https://sp2024.ieee-security.org/cfpapers.html
 [pc4]: https://sp2025.ieee-security.org/cfpapers.html
+[pc5]: https://sp2026.ieee-security.org/cfpapers.html
 [demo1]: https://wisec2020.ins.jku.at/organization/
 [demo2]: https://sites.nyuad.nyu.edu/wisec21/organization/
 [demo3]: https://wisec2022.cs.utsa.edu/organization/

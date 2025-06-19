@@ -32,7 +32,7 @@ Change][time-for-change]), analysis methodologies ([Inception][inception],
 [MCRank][mcrank]) and defenses ([PURE][pure], [EdgeTDC][edgetdc]), with a large
 experimental component on real systems and commercial devices.
 
-I am/was a PC member of IEEE SP 2025/2024, ACM WiSec 2025/2024, and ACM CCS
+I am/was a PC member of IEEE SP 2026/2025/2024, ACM WiSec 2025/2024, and ACM CCS
 2023 ([service](./service)), and I am regularly involved in collaborations,
 teaching and supervision ([teaching](./teaching)).
 
