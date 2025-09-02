@@ -29,7 +29,8 @@ channels, firmware analysis and hardware design, mobile and embedded devices. It
 covers attacks ([Screaming Channels][screaming-channels],
 [Noise-SDR][noise-sdr], [Ghost Peak][ghost-peak], [Time for
 Change][time-for-change]), analysis methodologies ([Inception][inception],
-[MCRank][mcrank]) and defenses ([PURE][pure], [EdgeTDC][edgetdc]), with a large
+[MCRank][mcrank]), defenses ([PURE][pure], [EdgeTDC][edgetdc])
+and secure systems ([LEO-Range][leo-range]), with a large
 experimental component on real systems and commercial devices.
 
 I am/was a PC member of IEEE SP 2026/2025/2024, ACM WiSec 2025/2024, and ACM CCS
@@ -49,3 +50,4 @@ teaching and supervision ([teaching](./teaching)).
 [inception]: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-corteggiani.pdf
 [mcrank]: https://tches.iacr.org/index.php/TCHES/article/view/9953/9456
 [edgetdc]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f271_paper.pdf
+[leo-range]: https://www.usenix.org/system/files/usenixsecurity25-coppola.pdf
