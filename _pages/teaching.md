@@ -15,7 +15,7 @@ nav_order: 7
 - Teaching assistant for the [Information Security Lab][eth-isl] (software security module) in 2021-2022 and 2022-2023.
 - Contributions to the [System Security][eth-syssec] course on the topic of
   side and covert channels since 2021.
-- Mentor for students attending the seminar on [Current Topics in Information Security][eth-ctis] in 2022-2023 and 2023-2024.
+- Mentor for students attending the seminar on [Current Topics in Information Security][eth-ctis] in 2022-2023, 2023-2024 and 2025.
 
 #### VU Amsterdam
 
