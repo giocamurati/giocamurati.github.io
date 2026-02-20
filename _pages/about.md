@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Postdoctoral Researcher &#x2022 ETH Zurich &#x2022 Security</b>
+subtitle: <b>Senior researcher (Oberassistent) &#x2022 ETH Zurich &#x2022 Security</b>
 
 profile:
   align: left
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in [Prof. Srdjan Capkun][srdjan]'s [System Security
+I am a senior researcher (Oberassistent) in [Prof. Srdjan Capkun][srdjan]'s [System Security
 Group][ethz-syssec] at ETH Zurich.
 
 Previously I was a PhD student at EURECOM, advised by [Prof. Aurélien
