@@ -28,9 +28,9 @@ wireless technologies, access control and positioning, side and covert
 channels, firmware analysis and hardware design, mobile and embedded devices. It
 covers attacks ([Screaming Channels][screaming-channels],
 [Noise-SDR][noise-sdr], [Ghost Peak][ghost-peak], [Time for
-Change][time-for-change], [NGD][anliker2026security]), analysis methodologies ([Inception][inception],
+Change][time-for-change], [NGD][ngd]), analysis methodologies ([Inception][inception],
 [MCRank][mcrank]), defenses ([PURE][pure], [EdgeTDC][edgetdc])
-and secure systems ([LEO-Range][leo-range], [Privacy of LEO TWR][coppola2025leo-privacy]), with a large
+and secure systems ([LEO-Range][leo-range], [Privacy of LEO TWR][privacy]), with a large
 experimental component on real systems and commercial devices.
 
 I am/was a PC member of IEEE SP 2026/2025/2024, ACM WiSec 2025/2024, and ACM CCS
@@ -51,3 +51,5 @@ teaching and supervision ([teaching](./teaching)).
 [mcrank]: https://tches.iacr.org/index.php/TCHES/article/view/9953/9456
 [edgetdc]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f271_paper.pdf
 [leo-range]: https://www.usenix.org/system/files/usenixsecurity25-coppola.pdf
+[privacy]: https://www.research-collection.ethz.ch/server/api/core/bitstreams/e2be9f49-613f-4428-97f7-e2337dae0652/content
+[ngd]: https://dl.acm.org/doi/pdf/10.1145/3765613.3811683
